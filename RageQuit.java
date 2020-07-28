@@ -23,6 +23,7 @@ public class RageQuit {
                 repeated.append(toRepeat);
             }
         }
+//try
         System.out.printf("Unique symbols used: %d%n",repeated.chars().distinct().count());
         System.out.print(repeated);
     }
