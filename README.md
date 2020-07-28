@@ -1,2 +1,2 @@
-# SoftwareUniversuty
+# SoftwareUniversity
 SoftwareUniversity homeworks
